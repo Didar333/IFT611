@@ -1,0 +1,21 @@
+CONTRÔLE
+-----------------------------
+W - Accélérer
+S - Decélérer
+A - Move left
+D - Move Right
+SPACE - Fire
+
+OTHER
+-----------------------------
+ESCAPE - Quit game
+R - Debug mode
+
+DEBUG
+-----------------------------
+T - Spawn player
+Y - Spawn big asteroid
+U - Spawn medium asteroid
+I - Spawn small asteroid
+O - Spawn big saucer (non fonctionnel)
+P - Spawn small saucer (non fonctionnel)
